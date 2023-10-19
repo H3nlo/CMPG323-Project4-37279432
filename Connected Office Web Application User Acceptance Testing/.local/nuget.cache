@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qmgGdHQ9jzVrSYQGhmD7eDvSuVA34+3LDrgUAgCPTnBJfcDPUf5PZvvJq+D3ASOU760i0YqG6xomzNjUwHGoAA==",
+  "dgSpecHash": "hcHVwbaFzxH4sAtDHamHsEzj4oeqbKrESZ7nFSTYc5+KtKag1am/U/cj9EsPDIW5p1mbADdyZOfLueCfZPnQRA==",
   "success": true,
   "projectFilePath": "D:\\AHenlo\\New folder\\GitHub\\CMPG323-Project4-37279432\\Connected Office Web Application User Acceptance Testing\\.local\\",
   "expectedPackageFiles": [
@@ -274,6 +274,7 @@
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.gsuite.activities\\2.3.4\\uipath.gsuite.activities.2.3.4.nupkg.sha512",
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.imageprocessing\\23.4.0\\uipath.imageprocessing.23.4.0.nupkg.sha512",
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.mail.activities\\1.21.1\\uipath.mail.activities.1.21.1.nupkg.sha512",
+    "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.3.3\\uipath.microsoftoffice365.activities.2.3.3.nupkg.sha512",
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\uipath.ocr.activities.3.17.1.nupkg.sha512",
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\uipath.ocr.contracts.2.16.0.nupkg.sha512",
     "C:\\Users\\Henlo_PC\\.nuget\\packages\\uipath.platform\\23.10.0\\uipath.platform.23.10.0.nupkg.sha512",
