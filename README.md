@@ -24,4 +24,18 @@ The report provides a detailed analysis of our project, including:
 - Key findings and insights.
 - Visualizations and charts for data presentation.
 
-A User Acceptance Model for Robotic Process Automation
+ResearchGate - A User Acceptance Model for Robotic Process Automation. [Link](https://www.researchgate.net/publication/346388112_A_User_Acceptance_Model_for_Robotic_Process_Automation)
+IBM Cloud Architecture - Robotic Process Automation Domain Reference Architecture. Link
+Diva-Portal - Robotic Process Automation in Insurance Companies: A Case Study of Its Impact and Implementation. Link
+Core - Robotic Process Automation in Public Administration: A Case Study of the Swedish Social Insurance Agency. Link
+Redalyc - Robotic Process Automation: A New Technology. Link
+Lund University Publications - Robotic Process Automation: Implementation and Usage in the Swedish Public Sector. Link
+UiPath - Robotic Process Automation. Link
+IBM - Robotic Process Automation (RPA). Link
+The Enterprisers Project - RPA (Robotic Process Automation): How to Explain It. Link
+IBM - Robotic Process Automation (RPA). Link
+Automation Anywhere - Robotic Process Automation (RPA). Link
+The Strategy Story - What Does UiPath Do? How Does UiPath Work? Business Model. Link
+Simplilearn - What is UiPath? Link
+UiPath - Robotic Process Automation. Link
+Guru99 - UiPath Tutorial: What is UiPath? Link
